@@ -7,11 +7,6 @@ Passionate about exploring the realms of coding, data science, machine learning,
 ## 💼 What I'm Working On
 - ⚽️ Currently building an FPL notifications app, developed in Swift and Python, utilizing the Fantasy Premier League API
 
-## 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/hubert-krzemieniewski" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
-</a>
-
 ## 🧰 My Toolbox:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
@@ -22,6 +17,11 @@ Passionate about exploring the realms of coding, data science, machine learning,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase">
 </div>
+
+## 🌐 Connect with me:
+<a href="https://www.linkedin.com/in/hubert-krzemieniewski" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+</a>
 
 <!--
 **hubert-krzem/hubert-krzem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
