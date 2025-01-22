@@ -9,7 +9,7 @@ Passionate about exploring the realms of coding, data science, machine learning,
 - ⚽️ Currently building an FPL notifications app, developed in Swift and Python, utilizing the Fantasy Premier League API
 
 ## 🌐 Connect with me:
-[](https://www.linkedin.com/in/hubert-krzemieniewski/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-krzemieniewski/)
 
 ## 👨🏻‍💻 My Skills
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
