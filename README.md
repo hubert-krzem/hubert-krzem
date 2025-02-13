@@ -5,7 +5,8 @@ I am a second-year Computer Science student at University College Dublin. <br>
 Passionate about exploring the realms of coding, data science, machine learning, and utilizing technology in creative and exciting ways.
 
 ## 💼 What I'm Working On
-- ⚽️ Currently building an FPL notifications app, developed in Swift and Python, utilizing the Fantasy Premier League API
+- ⚽️ FPL notifications app, developed in Swift and Python, utilizing the Fantasy Premier League API
+- 🕹️ Hex Oust board game, developed in Java as part of university course work
 
 ## 🧰 My Toolbox
 <div>
