@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hubert Krzemieniewski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🤔 About Me
-I am a second-year Computer Science student at University College Dublin. <br>
+I am a second-year Computer Science and Data Science student at University College Dublin. <br>
 Passionate about exploring the realms of coding, data science, machine learning, and utilizing technology in creative and exciting ways.
 
 ## 💼 What I'm Working On
