@@ -6,7 +6,7 @@ Passionate about exploring the realms of coding, data science, machine learning,
 
 ## 💼 What I'm Working On
 - ⚽️ FPL notifications app, developed in Swift and Python, utilizing the Fantasy Premier League API
-- 🕹️ Hex Oust board game, developed in Java as part of university course work
+- 🌐 Personal portfolio website, learning React utilising the next.js framework
 
 ## 🧰 My Toolbox
 <div>
